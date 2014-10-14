@@ -1,5 +1,6 @@
 library(shiny)
 require(data.table)
+require(stringr)
 
 
 
